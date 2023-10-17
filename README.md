@@ -8,7 +8,7 @@
 $$
 a_n = 
 \ \begin{cases} 
-      \frac{1}{2} a_{n-1} & a_{n-1} \ for \ a_{n-1} \ even \\
+      \frac{1}{2} a_{n-1} & for \ a_{n-1} \ even \\
       \\
       3a_{n-1} + 1 & for \ 3a_{n-1} \ odd \\
    \end{cases}
