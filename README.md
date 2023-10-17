@@ -35,5 +35,10 @@ Continuing in same way we get sequence starting from 7
 
 <div align="center">
 <h3><a href="https://vyasmokalzz.github.io/Collatz_Conjecture.github.io/"  target="_blank">Here is the Link to the Project</a></h3>
-<img align="center" src="https://github.com/vyasmokalzz/Solid_State_Models.github.io/assets/102199618/4503d966-9cf2-484f-8303-68869cd4a1a6" width="75%">
+<img  align="center" src="https://github.com/vyasmokalzz/Collatz_Conjecture.github.io/assets/102199618/eb90b03f-f775-401c-a083-384edf2b8b7f" width="75%">
 </div>
+
+<br>
+
+> **Important**
+Use Positive values only
