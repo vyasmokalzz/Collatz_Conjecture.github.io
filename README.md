@@ -28,4 +28,12 @@ Continuing in same way we get sequence starting from 7
 
 </p>
 
+<p>
+  In this project given a number the program calculates value at each iteration and plots the graph 📉 of the sequence and gives number of steps required to reach to number 1.<br>
+  You can try out putting different values and see how long the sequences are generated.
+</p>
+
+<div align="center">
 <h3><a href="https://vyasmokalzz.github.io/Collatz_Conjecture.github.io/"  target="_blank">Here is the Link to the Project</a></h3>
+<img align="center" src="https://github.com/vyasmokalzz/Solid_State_Models.github.io/assets/102199618/4503d966-9cf2-484f-8303-68869cd4a1a6" width="75%">
+</div>
