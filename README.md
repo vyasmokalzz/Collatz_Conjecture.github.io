@@ -27,3 +27,5 @@ Continuing in same way we get sequence starting from 7
 >7, 22, 11, 34, 17, 52, 26, 13, 40, 20, 10, 5, 16, 8, 4, 2, 1
 
 </p>
+
+<h3><a href="https://vyasmokalzz.github.io/Solid_State_Models.github.io/"  target="_blank">Here is the Link to the Project</a></h3>
