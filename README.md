@@ -28,4 +28,4 @@ Continuing in same way we get sequence starting from 7
 
 </p>
 
-<h3><a href="https://vyasmokalzz.github.io/Solid_State_Models.github.io/"  target="_blank">Here is the Link to the Project</a></h3>
+<h3><a href="https://vyasmokalzz.github.io/Collatz_Conjecture.github.io/"  target="_blank">Here is the Link to the Project</a></h3>
